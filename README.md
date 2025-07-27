@@ -97,14 +97,12 @@ install.packages(c("readr", "dplyr", "lubridate", "tidyr"))
 ```
 .
 ├── README.md
-├── retail_analysis.R        # R script containing all questions & answers
+├── retail_sales_analysis.R        # R script containing all questions & answers
 ├── data/
 │   ├── sales.csv
 │   ├── products.csv
 │   ├── inventory.csv
 │   └── stores.csv
-└── output/
-    └── (optional CSV/tables if you choose to save results)
 ```
 
 ---
