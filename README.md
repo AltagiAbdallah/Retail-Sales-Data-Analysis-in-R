@@ -107,9 +107,12 @@ install.packages(c("readr", "dplyr", "lubridate", "tidyr"))
 
 ---
 
-## Author
+## 👥 Contributors
 
-- **Altagi Abdallah Bakheit Abdelgadir**
+| Member | GitHub |
+| :--- | :--- |
+| **AltagiAbdallah** | [@AltagiAbdallah](https://github.com/AltagiAbdallah) |
+| **wejdan-salih** | [@wejdan-salih](https://github.com/wejdan-salih) |
 
 ---
 
